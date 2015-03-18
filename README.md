@@ -1,5 +1,6 @@
 # useful
 Some useful shortcuts for C++
+
 Right now there is:
 * _r user defined string literal for regex creation.
 * _sys for doing horrible things. TODO: replace with popen or some better variant.
